@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" shape-rendering="crispEdges" font-family="monospace">
+  <!-- Fondo -->
+  <rect width="800" height="220" fill="#0d1117"/>
+  <rect x="4" y="4" width="792" height="212" fill="none" stroke="#21262d" stroke-width="4"/>
+
+  <!-- Estrellas / pixeles decorativos -->
+  <g fill="#30363d">
+    <rect x="40" y="30" width="4" height="4"/>
+    <rect x="120" y="190" width="4" height="4"/>
+    <rect x="260" y="40" width="4" height="4"/>
+    <rect x="300" y="200" width="4" height="4"/>
+    <rect x="470" y="30" width="4" height="4"/>
+    <rect x="520" y="190" width="4" height="4"/>
+    <rect x="690" y="40" width="4" height="4"/>
+    <rect x="760" y="170" width="4" height="4"/>
+    <rect x="440" y="120" width="4" height="4"/>
+    <rect x="500" y="70" width="4" height="4"/>
+  </g>
+  <g fill="#58a6ff">
+    <rect x="200" y="28" width="4" height="4"/>
+    <rect x="620" y="60" width="4" height="4"/>
+    <rect x="740" y="60" width="4" height="4"/>
+  </g>
+
+  <!-- ===== Monitor retro ===== -->
+  <rect x="76" y="44" width="184" height="128" fill="#161b22" stroke="#484f58" stroke-width="4"/>
+  <rect x="96" y="60" width="144" height="88" fill="#010409"/>
+  <!-- líneas de código -->
+  <g>
+    <rect x="104" y="70"  width="40" height="8" fill="#ff7b72"/>
+    <rect x="148" y="70"  width="56" height="8" fill="#79c0ff"/>
+    <rect x="112" y="84"  width="64" height="8" fill="#d2a8ff"/>
+    <rect x="180" y="84"  width="24" height="8" fill="#a5d6ff"/>
+    <rect x="112" y="98"  width="40" height="8" fill="#7ee787"/>
+    <rect x="156" y="98"  width="48" height="8" fill="#ffa657"/>
+    <rect x="104" y="112" width="72" height="8" fill="#79c0ff"/>
+    <rect x="112" y="126" width="48" height="8" fill="#d2a8ff"/>
+    <rect x="164" y="126" width="20" height="8" fill="#7ee787"/>
+  </g>
+  <!-- scanlines -->
+  <g fill="#0d1117" opacity="0.25">
+    <rect x="96" y="66" width="144" height="2"/>
+    <rect x="96" y="80" width="144" height="2"/>
+    <rect x="96" y="94" width="144" height="2"/>
+    <rect x="96" y="108" width="144" height="2"/>
+    <rect x="96" y="122" width="144" height="2"/>
+    <rect x="96" y="136" width="144" height="2"/>
+  </g>
+  <!-- soporte -->
+  <rect x="152" y="172" width="32" height="14" fill="#30363d"/>
+  <rect x="124" y="186" width="88" height="8" fill="#484f58"/>
+
+  <!-- ===== Taza de café (guiño a Cafeterito) ===== -->
+  <g>
+    <rect x="330" y="108" width="84" height="12" fill="#ffa657"/>
+    <rect x="334" y="120" width="76" height="60" fill="#f0883e"/>
+    <rect x="338" y="120" width="68" height="8" fill="#3d2415"/>
+    <!-- asa -->
+    <rect x="414" y="126" width="20" height="8" fill="#ffa657"/>
+    <rect x="426" y="134" width="8" height="24" fill="#ffa657"/>
+    <rect x="414" y="158" width="20" height="8" fill="#ffa657"/>
+    <!-- platito -->
+    <rect x="322" y="180" width="100" height="8" fill="#484f58"/>
+    <!-- vapor -->
+    <g fill="#8b949e" opacity="0.8">
+      <rect x="348" y="86" width="8" height="8"/>
+      <rect x="356" y="78" width="8" height="8"/>
+      <rect x="364" y="86" width="8" height="8"/>
+      <rect x="380" y="86" width="8" height="8"/>
+      <rect x="388" y="78" width="8" height="8"/>
+      <rect x="396" y="86" width="8" height="8"/>
+    </g>
+  </g>
+
+  <!-- ===== Signo </> en pixel ===== -->
+  <g fill="#58a6ff">
+    <!-- < -->
+    <rect x="596" y="78"  width="16" height="16"/>
+    <rect x="580" y="94"  width="16" height="16"/>
+    <rect x="564" y="110" width="16" height="16"/>
+    <rect x="580" y="126" width="16" height="16"/>
+    <rect x="596" y="142" width="16" height="16"/>
+    <!-- > -->
+    <rect x="708" y="78"  width="16" height="16"/>
+    <rect x="724" y="94"  width="16" height="16"/>
+    <rect x="740" y="110" width="16" height="16"/>
+    <rect x="724" y="126" width="16" height="16"/>
+    <rect x="708" y="142" width="16" height="16"/>
+  </g>
+  <g fill="#c9d1d9">
+    <!-- / -->
+    <rect x="628" y="142" width="16" height="16"/>
+    <rect x="644" y="126" width="16" height="16"/>
+    <rect x="660" y="110" width="16" height="16"/>
+    <rect x="676" y="94"  width="16" height="16"/>
+    <rect x="692" y="78"  width="16" height="16"/>
+  </g>
+</svg>
