@@ -90,7 +90,11 @@ Siempre aprendiendo y creciendo junto a un gran equipo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julianv19&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julianv19&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julianv19&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julianv19&theme=tokyonight&utcOffset=-5"/>
 </p>
 
 ---
