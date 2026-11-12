@@ -128,3 +128,5 @@ Siempre aprendiendo y creciendo junto a un gran equipo
 </p>
 
 <p align="center"><sub>"El mejor código es el que se entiende y se mantiene."</sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=110&section=footer&text=Gracias%20por%20tu%20visita&fontColor=ffffff&fontSize=24&animation=twinkling&fontAlignY=68"/>
