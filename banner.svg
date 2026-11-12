@@ -101,6 +101,39 @@
   <rect x="152" y="176" width="32" height="14" fill="#30363d"/>
   <rect x="124" y="190" width="88" height="8" fill="#484f58"/>
 
+  <!-- ===== Emblema { J } (llaves de código + inicial) ===== -->
+  <g>
+    <!-- llave izquierda { -->
+    <g fill="#58a6ff">
+      <rect x="272" y="104" width="8" height="8"/><rect x="280" y="104" width="8" height="8"/>
+      <rect x="272" y="112" width="8" height="8"/>
+      <rect x="272" y="120" width="8" height="8"/>
+      <rect x="264" y="128" width="8" height="8"/>
+      <rect x="272" y="136" width="8" height="8"/>
+      <rect x="272" y="144" width="8" height="8"/>
+      <rect x="272" y="152" width="8" height="8"/><rect x="280" y="152" width="8" height="8"/>
+    </g>
+    <!-- J -->
+    <g fill="#f0883e">
+      <rect x="296" y="104" width="8" height="8"/><rect x="304" y="104" width="8" height="8"/><rect x="312" y="104" width="8" height="8"/>
+      <rect x="304" y="112" width="8" height="8"/>
+      <rect x="304" y="120" width="8" height="8"/>
+      <rect x="304" y="128" width="8" height="8"/>
+      <rect x="304" y="136" width="8" height="8"/>
+      <rect x="296" y="144" width="8" height="8"/><rect x="304" y="144" width="8" height="8"/>
+    </g>
+    <!-- llave derecha } -->
+    <g fill="#58a6ff">
+      <rect x="320" y="104" width="8" height="8"/><rect x="328" y="104" width="8" height="8"/>
+      <rect x="328" y="112" width="8" height="8"/>
+      <rect x="328" y="120" width="8" height="8"/>
+      <rect x="336" y="128" width="8" height="8"/>
+      <rect x="328" y="136" width="8" height="8"/>
+      <rect x="328" y="144" width="8" height="8"/>
+      <rect x="320" y="152" width="8" height="8"/><rect x="328" y="152" width="8" height="8"/>
+    </g>
+  </g>
+
   <!-- ===== Taza de café ===== -->
   <g>
     <rect x="360" y="112" width="84" height="12" fill="#ffa657"/>
