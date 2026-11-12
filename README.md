@@ -20,11 +20,12 @@
 ## Sobre mí
 
 ```text
+Desarrollador colombiano, 23 años, apasionado por la tecnología
 Aprendiz SENA - Análisis y Desarrollo de Software (ADSO)
-Enfocado en el desarrollo BACKEND: APIs REST y lógica de negocio
-Con conocimientos en FRONTEND: React + Tailwind CSS
-Y habilidades en SQL / BASES DE DATOS: PostgreSQL + MySQL
-Código limpio, trabajo en equipo y mejora continua
+Enfocado en BACKEND (APIs REST) con conocimientos en FRONTEND (React + Tailwind)
+Y habilidades en SQL / BASES DE DATOS (PostgreSQL + MySQL)
+Trabajo constante, trabajo en equipo y mejora continua
+Siempre aprendiendo y creciendo junto a un gran equipo
 ```
 
 ---
@@ -89,7 +90,7 @@ Código limpio, trabajo en equipo y mejora continua
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julianv19&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e" alt="activity graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julianv19&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="98%"/>
 </p>
 
 ---
